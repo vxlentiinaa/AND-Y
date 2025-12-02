@@ -69,11 +69,11 @@ Al detectar la distancia de la presencia la máquina reacciona de diferentes for
 
 - Esquemático hecho por misa en clase.
 
-insertar foto
+![diagrama de motor](./imagenesproceso/motorVibrador.png)
 
 - Esquema mosfet-m:
 
-insertar foto
+![diagrama de mosfet](./imagenesproceso/mosfet.png)
 
 `REACCIONES`
 
@@ -92,7 +92,9 @@ insertar foto
 
 ### Bocetos de planificación
 
-insertar imágenes
+![diagrama](./imagenesproceso/diagrama-01.png)
+
+![diagrama](./imagenesproceso/diagrama-02.png)
 
 ### Más procesos de códigos y fotografías en Github
 
@@ -106,7 +108,17 @@ Tuvimos muchas dificultades, pero solucionables.
 - Al tener estas dos funciones listas, se nos complicó la parte de reproducir los audios, ya que los decía en loop todo el rato y no se quedaba estático, no tenía tiempo de reposo.
 - Otro problema, fue juntar todos los códigos que teníamos, ya que cuando el ultrasónico medía la distancia, el audio se reproducía como lorito y el motor de vibración no vibraba. Y el servomotor tampoco se levantaba. Nos dimos cuenta que todo funcionaba bien por separado pero hubo problemas al juntarlos.
 
-insertar imagenes
+![proceso](./imagenesproceso/proceso-01.JPG)
+
+![proceso](./imagenesproceso/proceso-02.JPG)
+
+![proceso](./imagenesproceso/proceso-03.PNG)
+
+![proceso](./imagenesproceso/proceso-04.png)
+
+![proceso](./imagenesproceso/proceso-05.png)
+
+![proceso](./imagenesproceso/proceso-06.png)
 
 ## Etapas del código
 
@@ -567,7 +579,13 @@ REFERENTES DE CARCASA
   - [Original Thingamagoop](https://bleeplabs.com/original_thingamagoop/)
   - [Drifter](https://www.floatingforestpedals.com/shop/drifter)
  
-  insertar fotos
+![carcasa](./imagenesproceso/carcasa-01.PNG)
+
+![carcasa](./imagenesproceso/carcasa-02.PNG)
+
+![carcasa](./imagenesproceso/carcasa-03.PNG)
+
+![impresion](./imagenesproceso/impresionCaja.PNG)
 
 ### Roles del equipo
 
@@ -581,9 +599,27 @@ Al final del día todas complementamos en todos los roles <3
 
 ### Fotografías y videos del proyecto funcionando
 
-insertar fotos
+![afiche](./imagenesproceso/afiche.JPG)
 
-Videos en la carpeta de drive, creada por Mateo ([Encargo-02](https://drive.google.com/drive/folders/1hZd_qAtFzbxVesOuexRLseQspcyqCZDI))
+![andy](./imagenesProyecto_02/andy-01.jpeg)
+
+![andy](./imagenesProyecto_02/andy-02.jpeg)
+
+![andy](./imagenesProyecto_02/andy-03.JPG)
+
+![andy](./imagenesProyecto_02/andy-04.JPG)
+
+![andy](./imagenesProyecto_02/andy-05.JPG)
+
+![andy](./imagenesProyecto_02/andy-06.JPG)
+
+![andy](./imagenesProyecto_02/andy-07.JPG)
+
+![andy](./imagenesProyecto_02/andy-08.JPG)
+
+![andy](./imagenesProyecto_02/andy-09.JPG)
+
+- Videos en la carpeta de drive, creada por Mateo ([Encargo-02](https://drive.google.com/drive/folders/1hZd_qAtFzbxVesOuexRLseQspcyqCZDI))
 
 ### Bibliografía
 
@@ -606,6 +642,6 @@ Videos en la carpeta de drive, creada por Mateo ([Encargo-02](https://drive.goog
 
 ### Repositorios
 
-- Llamas, L. (s.f.). Ficheros .h y .cpp en C++. Recuperado de https://www.luisllamas.es/cpp-ficheros-h-y-cpp/
-- DFRobot. (s.f.). DFRobotDFPlayerMini Library. Recuperado de https://github.com/DFRobot/DFRobotDFPlayerMini
-- Arduino. (s.f.). Repositorio oficial de Arduino. Recuperado de https://github.com/Arduino
+- Llamas, L. (s.f.). Ficheros .h y .cpp en C++. Recuperado de <https://www.luisllamas.es/cpp-ficheros-h-y-cpp/>
+- DFRobot. (s.f.). DFRobotDFPlayerMini Library. Recuperado de <https://github.com/DFRobot/DFRobotDFPlayerMini>
+- Arduino. (s.f.). Repositorio oficial de Arduino. Recuperado de <https://github.com/Arduino>
