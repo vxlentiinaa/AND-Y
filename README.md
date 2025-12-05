@@ -13,6 +13,12 @@
   - Vania Paredes / [21vaniaparedes](https://github.com/21vaniaparedes)
   - Valentina Ruz / [vxlentinaa](https://github.com/vxlentinaa)
 
+  ### Github And-y - Video And-y
+  
+  <img src="./imagenesproceso/QR-githubAndy.png" alt="Github Andy" width="300">
+
+  <img src="./imagenesproceso/QR-githubVideo.png" alt="Video Andy" width="300">
+
  ---
  
 ## Presentación textual
@@ -69,12 +75,12 @@ Al detectar la distancia de la presencia la máquina reacciona de diferentes for
 ### Esquemático de conexión Motor Vibración Joystick
 
 - Esquemático hecho por misa en clase.
-
-![diagrama de motor](./imagenesproceso/motorVibrador.png)
+  
+<img src="./imagenesproceso/motorVibrador.png" alt="Video Andy" width="500">
 
 - Esquema mosfet-m:
 
-![diagrama de mosfet](./imagenesproceso/mosfet.png)
+<img src="./imagenesproceso/mosfet.png" alt="Video Andy" width="300">
 
 `REACCIONES`
 
@@ -93,9 +99,9 @@ Al detectar la distancia de la presencia la máquina reacciona de diferentes for
 
 ### Bocetos de planificación
 
-![diagrama](./imagenesproceso/diagrama-01.png)
+<img src="./imagenesproceso/diagrama-01.png" alt="Video Andy" width="500">
 
-![diagrama](./imagenesproceso/diagrama-02.png)
+<img src="./imagenesproceso/diagrama-02.png" alt="Video Andy" width="500">
 
 ### Más procesos de códigos y fotografías en Github
 
@@ -109,17 +115,17 @@ Tuvimos muchas dificultades, pero solucionables.
 - Al tener estas dos funciones listas, se nos complicó la parte de reproducir los audios, ya que los decía en loop todo el rato y no se quedaba estático, no tenía tiempo de reposo.
 - Otro problema, fue juntar todos los códigos que teníamos, ya que cuando el ultrasónico medía la distancia, el audio se reproducía como lorito y el motor de vibración no vibraba. Y el servomotor tampoco se levantaba. Nos dimos cuenta que todo funcionaba bien por separado pero hubo problemas al juntarlos.
 
-![proceso](./imagenesproceso/proceso-01.JPG)
+<img src="./imagenesproceso/proceso-01.JPG" alt="Video Andy" width="300">
 
-![proceso](./imagenesproceso/proceso-02.JPG)
+<img src="./imagenesproceso/proceso-02.JPG" alt="Video Andy" width="300">
 
-![proceso](./imagenesproceso/proceso-03.PNG)
+<img src="./imagenesproceso/proceso-03.PNG" alt="Video Andy" width="300">
 
-![proceso](./imagenesproceso/proceso-04.png)
+<img src="./imagenesproceso/proceso-04.png" alt="Video Andy" width="300">
 
-![proceso](./imagenesproceso/proceso-05.png)
+<img src="./imagenesproceso/proceso-05.png" alt="Video Andy" width="300">
 
-![proceso](./imagenesproceso/proceso-06.png)
+<img src="./imagenesproceso/proceso-06.png" alt="Video Andy" width="300">
 
 ## Etapas del código
 
@@ -579,14 +585,14 @@ REFERENTES DE CARCASA
 - Como grupo, buscamos referentes que colocaran el sensor como parte del proyecto y que no se oculte.
   - [Original Thingamagoop](https://bleeplabs.com/original_thingamagoop/)
   - [Drifter](https://www.floatingforestpedals.com/shop/drifter)
- 
-![carcasa](./imagenesproceso/carcasa-01.PNG)
 
-![carcasa](./imagenesproceso/carcasa-02.PNG)
+<img src="./imagenesproceso/carcasa-01.PNG" alt="Video Andy" width="300">
 
-![carcasa](./imagenesproceso/carcasa-03.PNG)
+<img src="./imagenesproceso/carcasa-02.PNG" alt="Video Andy" width="300">
 
-![impresion](./imagenesproceso/impresionCaja.PNG)
+<img src="./imagenesproceso/carcasa-03.PNG" alt="Video Andy" width="300">
+
+<img src="./imagenesproceso/impresionCaja.PNG" alt="Video Andy" width="300">
 
 ### Roles del equipo
 
@@ -600,27 +606,31 @@ Al final del día todas complementamos en todos los roles <3
 
 ### Fotografías y videos del proyecto funcionando
 
-![afiche](./imagenesproceso/afiche.JPG)
+<img src="./imagenesproceso/afiche.JPG" alt="Video Andy" width="300">
 
-![andy](./imagenesProyecto_02/andy-01.jpeg)
+<img src="./imagenesProyecto_02/andy-01.jpeg" alt="Video Andy" width="300">
 
-![andy](./imagenesProyecto_02/andy-02.jpeg)
+<img src="./imagenesProyecto_02/andy-02.jpeg" alt="Video Andy" width="300">
 
-![andy](./imagenesProyecto_02/andy-03.JPG)
+<img src="./imagenesProyecto_02/andy-03.JPG" alt="Video Andy" width="300">
 
-![andy](./imagenesProyecto_02/andy-04.JPG)
+<img src="./imagenesProyecto_02/andy-04.JPG" alt="Video Andy" width="300">
 
-![andy](./imagenesProyecto_02/andy-05.JPG)
+<img src="./imagenesProyecto_02/andy-05.JPG" alt="Video Andy" width="300">
 
-![andy](./imagenesProyecto_02/andy-06.JPG)
+<img src="./imagenesProyecto_02/andy-06.JPG" alt="Video Andy" width="300">
 
-![andy](./imagenesProyecto_02/andy-07.JPG)
+<img src="./imagenesProyecto_02/andy-07.JPG" alt="Video Andy" width="300">
 
-![andy](./imagenesProyecto_02/andy-08.JPG)
+<img src="./imagenesProyecto_02/andy-08.JPG" alt="Video Andy" width="300">
 
-![andy](./imagenesProyecto_02/andy-09.JPG)
+<img src="./imagenesProyecto_02/andy-09.JPG" alt="Video Andy" width="300">
 
 - Videos en la carpeta de drive, creada por Mateo ([Encargo-02](https://drive.google.com/drive/folders/1hZd_qAtFzbxVesOuexRLseQspcyqCZDI))
+
+### PRIMAVERA HACKER-25
+
+
 
 ### Bibliografía
 
