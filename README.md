@@ -1,11 +1,11 @@
 # Proyecto 02
 
-### `Universidad Diego Portales, Taller de máquinas computacionales`
+### `Universidad Diego Portales, Taller de máquinas computacionales DIS8645-2025`
 
 ## Integrantes
 
 - Grupo: 01
-- Nombre de grupo: leonas.ino
+- Nombre de grupo: AndLid
 - Integrantes:
   - Yamna Carrión / [yamna-bit](https://github.com/yamna-bit)
   - Sofía Cartes / [sofiacartes](https://github.com/sofiacartes)
@@ -35,6 +35,7 @@ El proyecto consiste en un robot que saluda mediante la interacción con algún 
 - “Los datos nunca se borran, sólo se esconden.”
 - “El error 404 es mi manera de hacerme el leso.”
 - “El primer mouse era de madera.”
+- "Sabías que las cosas cargan más rápido cuando las cosas no te importan"
 
 ### Inputs y Outputs
 
