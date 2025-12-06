@@ -630,7 +630,27 @@ Al final del día todas complementamos en todos los roles <3
 
 ### PRIMAVERA HACKER-25
 
+|Insta lid|Insta phacker|Insta teee.udp
+|---|---|---|
+|<img src="./qr/lid.udp_qr.png" alt="Video Andy" width="200">|<img src="./qr/phacker_25_qr.png" alt="Video Andy" width="200">|<img src="./qr/teee.udp_qr.png" alt="Video Andy" width="200">|
 
+---
+
+Somos el Equipo ANDlid, estudiantes del taller de Diseño de Máquinas Computacionales de la Universidad Diego Portales, donde trabajamos relacionando el diseño con la programación y la interacción persona-máquina. 
+
+And-y, nace a partir del siguiente encargo: crear una máquina saludadora. Con eso en mente, diseñamos un robit que genera una experiencia interactiva. And-y funciona mediante los inputs de sensores ultrasónicos, generando outputs como servo motor, motor joystick y mp3. Cada etapa del proyecto implicó diversas dificultades, aciertos, bocetos, pruebas y prototipos.
+
+Un factor clave para nosotras es el trabajo en equipo. Este proyecto no existiría sin la colaboración, las discusiones, la división de tareas y el aprendizaje en conjunto con el Taller. También consideramos relevante mencionar que, como un equipo completamente femenino, el ser parte de este evento resulta en una experiencia muy significativa, que no solo demuestra nuestras habilidades y perseverancia, sino también nuestro relevante aporte en un mundo que sigue en busqueda de la igualdad de género, como es el mundo de la programación en Chile. 
+
+Estamos en Primavera Hacker porque creemos en compartir procesos y porque este espacio nos motiva a seguir aprendiendo. Queremos agradecer a nuestro profesor Aaron, que nos introdujo a este mundo, y a nuestros compañeros del taller por todo el apoyo.
+
+Y ahora, ¿Sabías qué?:
+
+`aprendimos a programar hace solo 3 meses.`
+
+And-y es nuestro primer proyecto de interacción, y estamos felices de presentarlo aquí.
+
+Muchas gracias.
 
 ### Bibliografía
 
